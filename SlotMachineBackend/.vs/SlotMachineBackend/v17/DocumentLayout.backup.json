@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nielh\\source\\repos\\SlotMachineBackend-Final\\SlotMachineBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08837ECA-C713-4106-B5B9-33928C8D4A31}|SlotMachineBackend\\SlotMachineBackend.csproj|c:\\users\\nielh\\source\\repos\\slotmachinebackend-final\\slotmachinebackend\\slotmachinebackend\\controllers\\gameresultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08837ECA-C713-4106-B5B9-33928C8D4A31}|SlotMachineBackend\\SlotMachineBackend.csproj|solutionrelative:slotmachinebackend\\controllers\\gameresultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08837ECA-C713-4106-B5B9-33928C8D4A31}|SlotMachineBackend\\SlotMachineBackend.csproj|c:\\users\\nielh\\source\\repos\\slotmachinebackend-final\\slotmachinebackend\\slotmachinebackend\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08837ECA-C713-4106-B5B9-33928C8D4A31}|SlotMachineBackend\\SlotMachineBackend.csproj|solutionrelative:slotmachinebackend\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08837ECA-C713-4106-B5B9-33928C8D4A31}|SlotMachineBackend\\SlotMachineBackend.csproj|c:\\users\\nielh\\source\\repos\\slotmachinebackend-final\\slotmachinebackend\\slotmachinebackend\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08837ECA-C713-4106-B5B9-33928C8D4A31}|SlotMachineBackend\\SlotMachineBackend.csproj|solutionrelative:slotmachinebackend\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08837ECA-C713-4106-B5B9-33928C8D4A31}|SlotMachineBackend\\SlotMachineBackend.csproj|c:\\users\\nielh\\source\\repos\\slotmachinebackend-final\\slotmachinebackend\\slotmachinebackend\\models\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08837ECA-C713-4106-B5B9-33928C8D4A31}|SlotMachineBackend\\SlotMachineBackend.csproj|solutionrelative:slotmachinebackend\\models\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08837ECA-C713-4106-B5B9-33928C8D4A31}|SlotMachineBackend\\SlotMachineBackend.csproj|c:\\users\\nielh\\source\\repos\\slotmachinebackend-final\\slotmachinebackend\\slotmachinebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08837ECA-C713-4106-B5B9-33928C8D4A31}|SlotMachineBackend\\SlotMachineBackend.csproj|solutionrelative:slotmachinebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08837ECA-C713-4106-B5B9-33928C8D4A31}|SlotMachineBackend\\SlotMachineBackend.csproj|c:\\users\\nielh\\source\\repos\\slotmachinebackend-final\\slotmachinebackend\\slotmachinebackend\\slotmachinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08837ECA-C713-4106-B5B9-33928C8D4A31}|SlotMachineBackend\\SlotMachineBackend.csproj|solutionrelative:slotmachinebackend\\slotmachinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08837ECA-C713-4106-B5B9-33928C8D4A31}|SlotMachineBackend\\SlotMachineBackend.csproj|c:\\users\\nielh\\source\\repos\\slotmachinebackend-final\\slotmachinebackend\\slotmachinebackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08837ECA-C713-4106-B5B9-33928C8D4A31}|SlotMachineBackend\\SlotMachineBackend.csproj|solutionrelative:slotmachinebackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08837ECA-C713-4106-B5B9-33928C8D4A31}|SlotMachineBackend\\SlotMachineBackend.csproj|c:\\users\\nielh\\source\\repos\\slotmachinebackend-final\\slotmachinebackend\\slotmachinebackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08837ECA-C713-4106-B5B9-33928C8D4A31}|SlotMachineBackend\\SlotMachineBackend.csproj|solutionrelative:slotmachinebackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08837ECA-C713-4106-B5B9-33928C8D4A31}|SlotMachineBackend\\SlotMachineBackend.csproj|c:\\users\\nielh\\source\\repos\\slotmachinebackend-final\\slotmachinebackend\\slotmachinebackend\\slotmachinebackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{08837ECA-C713-4106-B5B9-33928C8D4A31}|SlotMachineBackend\\SlotMachineBackend.csproj|solutionrelative:slotmachinebackend\\slotmachinebackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameResultsController.cs",
+              "DocumentMoniker": "C:\\Users\\nielh\\source\\repos\\SlotMachineBackend-Final\\SlotMachineBackend\\SlotMachineBackend\\Controllers\\GameResultsController.cs",
+              "RelativeDocumentMoniker": "SlotMachineBackend\\Controllers\\GameResultsController.cs",
+              "ToolTip": "C:\\Users\\nielh\\source\\repos\\SlotMachineBackend-Final\\SlotMachineBackend\\SlotMachineBackend\\Controllers\\GameResultsController.cs",
+              "RelativeToolTip": "SlotMachineBackend\\Controllers\\GameResultsController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAswJ0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:11:46.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SlotMachineDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nielh\\source\\repos\\SlotMachineBackend-Final\\SlotMachineBackend\\SlotMachineBackend\\SlotMachineDbContext.cs",
+              "RelativeDocumentMoniker": "SlotMachineBackend\\SlotMachineDbContext.cs",
+              "ToolTip": "C:\\Users\\nielh\\source\\repos\\SlotMachineBackend-Final\\SlotMachineBackend\\SlotMachineBackend\\SlotMachineDbContext.cs",
+              "RelativeToolTip": "SlotMachineBackend\\SlotMachineDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:06:43.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayersController.cs",
+              "DocumentMoniker": "C:\\Users\\nielh\\source\\repos\\SlotMachineBackend-Final\\SlotMachineBackend\\SlotMachineBackend\\Controllers\\PlayersController.cs",
+              "RelativeDocumentMoniker": "SlotMachineBackend\\Controllers\\PlayersController.cs",
+              "ToolTip": "C:\\Users\\nielh\\source\\repos\\SlotMachineBackend-Final\\SlotMachineBackend\\SlotMachineBackend\\Controllers\\PlayersController.cs",
+              "RelativeToolTip": "SlotMachineBackend\\Controllers\\PlayersController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAIwGAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:24:25.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameResult.cs",
+              "DocumentMoniker": "C:\\Users\\nielh\\source\\repos\\SlotMachineBackend-Final\\SlotMachineBackend\\SlotMachineBackend\\Models\\GameResult.cs",
+              "RelativeDocumentMoniker": "SlotMachineBackend\\Models\\GameResult.cs",
+              "ToolTip": "C:\\Users\\nielh\\source\\repos\\SlotMachineBackend-Final\\SlotMachineBackend\\SlotMachineBackend\\Models\\GameResult.cs",
+              "RelativeToolTip": "SlotMachineBackend\\Models\\GameResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:01:55.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\nielh\\source\\repos\\SlotMachineBackend-Final\\SlotMachineBackend\\SlotMachineBackend\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "SlotMachineBackend\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\nielh\\source\\repos\\SlotMachineBackend-Final\\SlotMachineBackend\\SlotMachineBackend\\Models\\Player.cs",
+              "RelativeToolTip": "SlotMachineBackend\\Models\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:00:07.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nielh\\source\\repos\\SlotMachineBackend-Final\\SlotMachineBackend\\SlotMachineBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "SlotMachineBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\nielh\\source\\repos\\SlotMachineBackend-Final\\SlotMachineBackend\\SlotMachineBackend\\appsettings.json",
+              "RelativeToolTip": "SlotMachineBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T15:49:09.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nielh\\source\\repos\\SlotMachineBackend-Final\\SlotMachineBackend\\SlotMachineBackend\\Program.cs",
+              "RelativeDocumentMoniker": "SlotMachineBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\nielh\\source\\repos\\SlotMachineBackend-Final\\SlotMachineBackend\\SlotMachineBackend\\Program.cs",
+              "RelativeToolTip": "SlotMachineBackend\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswCwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:49:14.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\nielh\\source\\repos\\SlotMachineBackend-Final\\SlotMachineBackend\\SlotMachineBackend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SlotMachineBackend\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\nielh\\source\\repos\\SlotMachineBackend-Final\\SlotMachineBackend\\SlotMachineBackend\\appsettings.Development.json",
+              "RelativeToolTip": "SlotMachineBackend\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T15:56:12.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SlotMachineBackend.csproj",
+              "DocumentMoniker": "C:\\Users\\nielh\\source\\repos\\SlotMachineBackend-Final\\SlotMachineBackend\\SlotMachineBackend\\SlotMachineBackend.csproj",
+              "RelativeDocumentMoniker": "SlotMachineBackend\\SlotMachineBackend.csproj",
+              "ToolTip": "C:\\Users\\nielh\\source\\repos\\SlotMachineBackend-Final\\SlotMachineBackend\\SlotMachineBackend\\SlotMachineBackend.csproj",
+              "RelativeToolTip": "SlotMachineBackend\\SlotMachineBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T15:59:27.901Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
